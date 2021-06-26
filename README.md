@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%2300cd00&label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%2300cd00&label=Stars" alt="shield.png"></a>
-<img src="https://img.shields.io/github/downloads/Rdimo/Hazard-Nuker/v1.1.3/HazardNuker.rar?color=%2300cd00&label=Downloads" alt="shield.png"></a>
+<img src="https://img.shields.io/github/downloads/Rdimo/Hazard-Nuker/v1.1.4/HazardNuker.rar?color=%2300cd00&label=Downloads" alt="shield.png"></a>
 
 #### Hazard Nuker was made by
 Love ❌
