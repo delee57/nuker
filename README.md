@@ -101,8 +101,7 @@ Exit the program
 | 🌟Star this repository if it has helped you!|
 |----------------------------------------------|
 
-⚠️・ Hazard Nuker was made for educational purposes.・⚠️
-By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
+⚠️・ Hazard Nuker was made for educational purposes. By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
 
 <a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=banner4" alt="Discord Banner 4"/></a>
 
