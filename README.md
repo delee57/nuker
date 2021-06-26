@@ -1,8 +1,8 @@
 ## A Discord Account Nuker written in Python
 
-   <img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%2300cd00&label=Watchers" alt="shield.png"></a>
-   <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%2300cd00&label=Stars" alt="shield.png"></a>
-   <img src="https://img.shields.io/github/downloads/Rdimo/Hazard-Nuker/v1.1.3/HazardNuker.rar?color=%2300cd00&label=Downloads" alt="shield.png"></a>
+<img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%2300cd00&label=Watchers" alt="shield.png"></a>
+<img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%2300cd00&label=Stars" alt="shield.png"></a>
+<img src="https://img.shields.io/github/downloads/Rdimo/Hazard-Nuker/v1.1.3/HazardNuker.rar?color=%2300cd00&label=Downloads" alt="shield.png"></a>
 
 #### Hazard Nuker was made by
 Love ❌
@@ -70,6 +70,6 @@ Exit the program
 | 🌟Star this repository if it has helped you!|
 |----------------------------------------------|
 
-<a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=shield" alt="shield.png"></a>
+<a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=banner4" alt="Discord Banner 4"/></a>
 
 Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
