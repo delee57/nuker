@@ -17,6 +17,4 @@
 ⚠️・ Hazard Nuker was made for educational purposes.・⚠️
 By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
 
-<a href="https://github.com/Rdimo/Hazard-Nuker" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858483960644632586/nedladdning_6.gif" alt="HazardNuker"></a>
-
 Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
