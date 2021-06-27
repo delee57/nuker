@@ -1,4 +1,4 @@
-<p align= center <a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.4/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a> 
+<p align= center <a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.5/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a> 
 
 <img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%2300cd00&label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%2300cd00&label=Stars" alt="shield.png"></a>
@@ -22,10 +22,11 @@ code ✅
 * ` Spam Create New servers`
 * ` Get information from a targetted account`
 * ` Log into an account`   
+* ` Webhook spammer`
 * ` Enable seizure mode`   
 * ` Disable Token`
 
-<a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.4/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858472672744046642/unknown.png" alt="HazardNuker"></a>
+<a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.5/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858684504453152808/unknown.png" alt="HazardNuker"></a>
 
 #### [1]: Nuke a targetted account 
 Spam switch from light to dark mode the whole time nuking
@@ -95,18 +96,19 @@ will look like this = https://imgur.com/Ln4otjS
 #### [10]Mass Report
 Mass report the user thru their token
 
-#### [11]: Exit
+#### [11]Webhook Spammer
+Spam a webhook 
+Can customize the Duration of spam and the message being sent
+
+#### [12]: Exit
 Exit the program
 
-| 🌟Star this repository if it has helped you!|
-|----------------------------------------------|
+| 🌟Star this repository if you Like Hazard Nuker!|
+|-------------------------------------------------|
 
-<<<<<<< HEAD
 ⚠️・ Hazard Nuker was made for educational purposes.・⚠️
 By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
 
-=======
->>>>>>> 0cf6a3611f204197d2684abe4a0517519637978d
 <a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=banner4" alt="Discord Banner 4"/></a>
 
 Created by Rdimo#6969 | https://rdimo.github.io/CheatAway

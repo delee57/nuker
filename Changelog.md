@@ -1,6 +1,13 @@
 <p align= center <a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.4/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a> 
 
-#### 2021-06-27, v1.1.4
+#### 2021-06-27, v1.1.5
+* ` Added webhook spammer`
+* ` Fixed the auto update, put the wrong link in before but now it works`
+* ` Made it check for a valid webhook when creating the token grabber`
+* ` Made the token grabbers console not popup anymore`
+* ` You can now see the person set Language when using option [6]`
+
+#### 2021-06-26, v1.1.4
 * ` Added Auto update functionality`
 * ` Added mass report option to mass report a user`
 * ` Added Token grabber creator, (https://imgur.com/Ln4otjS) more info in the readme`
@@ -11,12 +18,10 @@
 * ` Changed the color of the main ui`
 * ` Moved the logo a bit up furhter to make it a bit more centered`
 
-| 🌟Star this repository if it has helped you!|
-|----------------------------------------------|
+| 🌟Star this repository if you Like Hazard Nuker!|
+|-------------------------------------------------|
 
 ⚠️・ Hazard Nuker was made for educational purposes.・⚠️
 By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
-
-<a href="https://github.com/Rdimo/Hazard-Nuker" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858483960644632586/nedladdning_6.gif" alt="HazardNuker"></a>
 
 Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
