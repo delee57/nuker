@@ -18,7 +18,7 @@
 * ` Changed the color of the main ui`
 * ` Moved the logo a bit up furhter to make it a bit more centered`
 
-| 🌟Star this repository if you Like Hazard Nuker!|
+| 🌟Star This Repository If You Liked Hazard Nuker!|
 |-------------------------------------------------|
 
 ⚠️・ Hazard Nuker was made for educational purposes.・⚠️

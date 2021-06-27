@@ -102,7 +102,7 @@ Can customize the Duration of spam and the message being sent
 #### [12]: Exit
 Exit the program
 
-| 🌟Star this repository if you Like Hazard Nuker!|
+| 🌟Star This Repository If You Liked Hazard Nuker!|
 |-------------------------------------------------|
 
 ⚠️・ Hazard Nuker was made for educational purposes. By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
