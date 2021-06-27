@@ -25,7 +25,7 @@ code ✅
 * ` Enable seizure mode`   
 * ` Disable Token`
 
-<a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.5/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858684504453152808/unknown.png" alt="HazardNuker"></a>
+<a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.5/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858686594118320168/unknown.png" alt="HazardNuker"></a>
 
 #### [1]: Nuke a targetted account 
 Spam switch from light to dark mode the whole time nuking
