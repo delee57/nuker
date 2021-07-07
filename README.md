@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%23daff00&label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%23daff00&label=Stars" alt="shield.png"></a>
 
+(Make sure to have [Python](https://www.python.org/) before [Downloading](https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip) Hazard)
+
 #### Hazard Nuker was made by
 Love ❌
 code ✅
@@ -26,9 +28,9 @@ code ✅
 * ` Disable Token`
 
 <p align="center">
- <a href="https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip" target="_blank"> <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862308383269191680/unknown.png" width="45%"></a>
+ <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862308383269191680/unknown.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip" target="_blank">  <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862360917701034034/unknown.png" width="45%"></a>
+ <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862360917701034034/unknown.png" width="45%">
 </p>
 
 #### [1]: Nuke a targetted account 
