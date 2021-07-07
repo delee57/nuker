@@ -30,11 +30,11 @@ code ✅
 #### [1]: Nuke a targetted account 
 Spam switch from light to dark mode the whole time nuking
 Delete/leave every server they are in
-Will create 75 servers
+Will create 100 servers named whatever you want
 Change language to japanese
 Change appearance to brightmode
 Remove all friends
-Send a message to every friend they have
+Send a choosen message to every friend they have
 Everything will be logged and you can watch what happens on the cmd
 
 #### [2] Unfriend all friends

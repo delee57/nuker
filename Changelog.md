@@ -1,5 +1,10 @@
 <p align= center <a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.4/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a> 
 
+### 2021-07-07, v1.1.6
+* ` Made auto update work a bit cleaner`
+* ` You can now choose what message will be sent to every friend`
+* ` You can now choose what the name of the servers will be `
+
 ### 2021-06-27, v1.1.5
 * ` Added webhook spammer`
 * ` Fixed the auto update, put the wrong link in before but now it works`
