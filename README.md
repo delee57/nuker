@@ -31,8 +31,7 @@ code ✅
 Spam switch from light to dark mode the whole time nuking
 Delete/leave every server they are in
 Will create 100 servers named whatever you want
-Change language to japanese
-Change appearance to brightmode
+Change language from ja to zh-TW to ko to zh-CN
 Remove all friends
 Send a choosen message to every friend they have
 Everything will be logged and you can watch what happens on the cmd
