@@ -45,8 +45,7 @@ removes all friend the user has
 Leaves and deletes all the server the user has
 
 #### [4] Spam Create New servers
-Creates 100 new servers named "Get hacked 😂" 
-(will update in the future so you can choose what name the servers will have)
+Creates 100 new servers named whatever you want
 
 #### [5] Enable seizure mode
 Switches between Light/dark mode as long as the console is open
