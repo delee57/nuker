@@ -1,5 +1,8 @@
 <p align= center <a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.5/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a> 
 
+<img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%2300cd00&label=Watchers" alt="shield.png"></a>
+<img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%2300cd00&label=Stars" alt="shield.png"></a>
+
 #### Hazard Nuker was made by
 Love ❌
 code ✅
