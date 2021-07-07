@@ -25,7 +25,11 @@ code ✅
 * ` Enable seizure mode`   
 * ` Disable Token`
 
-<a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.5/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/862308383269191680/unknown.png" alt="HazardNuker"></a>
+<p align="center">
+ <a href="https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip" target="_blank"> <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862308383269191680/unknown.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip" target="_blank">  <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862360917701034034/unknown.png" width="45%">
+</p>
 
 #### [1]: Nuke a targetted account 
 Spam switch from light to dark mode the whole time nuking
@@ -38,7 +42,6 @@ Everything will be logged and you can watch what happens on the cmd
 
 #### [2] Unfriend all friends
 removes all friend the user has
-
 
 #### [3] delete and leave all servers
 Leaves and deletes all the server the user has
@@ -87,7 +90,7 @@ if 2fa is enabled
 creation date
 their discord token from all their accounts they have
 
-will look like this = https://imgur.com/Ln4otjS
+will look like [this](https://imgur.com/Ln4otjS)
 
 #### [10]Mass Report
 Mass report the user thru their token
