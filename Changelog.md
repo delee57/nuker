@@ -1,5 +1,9 @@
 <p align= center <a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.4/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a> 
 
+### 2021-07-07, v1.1.7
+* ` Fixed seizure mode to work while nuking the account`
+* ` Fixed the Log into account actually work now (need correct driver for it)`
+
 ### 2021-07-07, v1.1.6
 * ` Made auto update work a bit cleaner`
 * ` You can now choose what message will be sent to every friend`

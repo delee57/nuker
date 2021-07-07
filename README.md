@@ -49,7 +49,6 @@ Creates 100 new servers named whatever you want
 
 #### [5] Enable seizure mode
 Switches between Light/dark mode as long as the console is open
-(close and reopen Hazard Nuker to make it stop)
 
 #### [6] Get information from a targetted account
 So far the info you get is 
@@ -61,8 +60,8 @@ If they have 2fa enabled
 
 #### [7] Log into an account
 Log into the account via their token
-this option is a bit buggy and might not work since you log into the account thru their token
-will be fixed in the future so don't worry
+Make sure you have the correct Chromedriver.exe get it [here](https://chromedriver.chromium.org/downloads)
+download the version corresponding to your chrome browsers version [How to get google version](https://www.businessinsider.com/what-version-of-google-chrome-do-i-have?op=1&r=US&IR=T)
 
 #### [8] Disable Token
 Disables their token
