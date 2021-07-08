@@ -1,5 +1,9 @@
 <p align= center <a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.4/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a> 
 
+### 2021-07-09, v1.1.8
+* ` Added option to delete webhook and made it as a second choice for choice [11]`
+* ` improved token info by aloooot so now you get nitro info, billing info, avatar url and more small things`
+
 ### 2021-07-07, v1.1.7
 * ` Fixed seizure mode to work while nuking the account`
 * ` Fixed the Log into account actually work now (need correct driver for it)`

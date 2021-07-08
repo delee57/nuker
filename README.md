@@ -11,21 +11,20 @@ code ✅
 
 ### Features
 
-* ` Nuke a targetted account`
 * ` Many options while being compact`
 * ` Auto update`
+* ` Easy and fast`
+* ` Nuke a targetted account`
+* ` Unfriend all friends`
+* ` delete and leave all servers`
+* ` Spam Create New servers`
+* ` Spam switch between light/dark and languages`
+* ` Get information from a targetted account`
+* ` Log into an account thru the token`
+* ` Disable Token`
 * ` Create login stealer`
 * ` Mass report`
-* ` Easy and fast`
-* ` No proxies required `                                             
-* ` Unfriend all friends`                                                                                                                                                   
-* ` delete and leave all servers`                                                                                                                            
-* ` Spam Create New servers`
-* ` Get information from a targetted account`
-* ` Log into an account`   
 * ` Webhook spammer`
-* ` Enable seizure mode`   
-* ` Disable Token`
 
 <p align="center">
  <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862308383269191680/unknown.png" width="45%">
@@ -53,14 +52,36 @@ Creates 100 new servers named whatever you want
 
 #### [5] Enable seizure mode
 Switches between Light/dark mode as long as the console is open
+also switches languages from ja to zh-TW to ko to zh-CN
 
 #### [6] Get information from a targetted account
-So far the info you get is 
-Username
-UserID
-Phone
+This is the info you get:
+User ID
+date account was created at
+Language
+Flags
+Avatar URL
+Token
+if they have 2fa on/off
 Email
-If they have 2fa enabled
+Phone number if they have one
+if they have nitro
+if they have nitro you get how many days they have it for 
+payment type (credit card/paypal)
+if the payment is valid
+name of the credit card/paypal
+credit card/paypal Holder Name
+credit card brand
+credit card number (not the whole)
+credit card expatriation date
+paypal email
+adress 1 and adress 2
+their city
+their postal code
+their state
+their country
+and if the payment method is their default
+if they have multiple credit cards connected you get those aswell
 
 #### [7] Log into an account
 Log into the account via their token
@@ -68,7 +89,7 @@ Make sure you have the correct Chromedriver.exe get it [here](https://chromedriv
 download the version corresponding to your chrome browsers version [How to get google version](https://www.businessinsider.com/what-version-of-google-chrome-do-i-have?op=1&r=US&IR=T)
 
 #### [8] Disable Token
-Disables their token
+Makes the token you put in unusable/invalid
 
 #### [9] Create Token Grabber
 Creates a token grabber in exe form that you can send to your victims and get their info thru a webhook
@@ -94,14 +115,14 @@ their discord token from all their accounts they have
 
 will look like [this](https://imgur.com/Ln4otjS)
 
-#### [10]Mass Report
+#### [10] Mass Report
 Mass report the user thru their token
 
-#### [11]Webhook Spammer
-Spam a webhook 
+#### [11] Webhook Destroyer
+Choose between deleting or spamming a webhook
 Can customize the Duration of spam and the message being sent
 
-#### [12]: Exit
+#### [12] Exit
 Exit the program
 
 | 🌟Star This Repository If You Liked Hazard Nuker!|
