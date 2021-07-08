@@ -27,7 +27,7 @@ code ✅
 * ` Webhook spammer`
 
 <p align="center">
- <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862308383269191680/unknown.png" width="45%">
+ <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862820182942679050/unknown.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
  <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862360917701034034/unknown.png" width="45%">
 </p>
