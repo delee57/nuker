@@ -3,11 +3,11 @@
 <img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%23daff00&label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%23daff00&label=Stars" alt="shield.png"></a>
 
-(Make sure to have [Python](https://www.python.org/downloads/) before [Downloading](https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip) Hazard)
-
 #### Hazard Nuker was made by
 Love ❌
 code ✅
+
+Make sure to check [notes]()
 
 ### Features
 
@@ -125,6 +125,10 @@ Can customize the Duration of spam and the message being sent
 
 #### [12] Exit
 Exit the program
+
+#### Notes
+* Make sure to have [Python](https://www.python.org/downloads/) before [Downloading](https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip) Hazard
+* Please Join the [discord server](https://rdimo.github.io/CheatAway/) or contact Rdimo#6969 on discord if you get any sort of major error with Hazard
 
 | 🌟Star This Repository If You Liked Hazard Nuker!|
 |-------------------------------------------------|
