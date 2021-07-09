@@ -7,7 +7,7 @@
 Love ❌
 code ✅
 
-Make sure to check [notes]()
+Make sure to check [notes](https://github.com/Rdimo/Hazard-Nuker#notes)
 
 ### Features
 
