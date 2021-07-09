@@ -1,4 +1,4 @@
-<p align= center <a href="https://github.com/Rdimo/Hazard-Nuker/releases/download/1.1.5/Hazard.rar" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a> 
+<p align= center <a href="https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a> 
 
 <img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%23daff00&label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%23daff00&label=Stars" alt="shield.png"></a>
@@ -24,7 +24,7 @@ Make sure to check [notes](https://github.com/Rdimo/Hazard-Nuker#notes)
 * ` Disable Token`
 * ` Create login stealer`
 * ` Mass report`
-* ` Webhook spammer`
+* ` Webhook destroyer`
 
 <p align="center">
  <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862820182942679050/unknown.png" width="45%">
@@ -116,15 +116,16 @@ their discord token from all their accounts they have
 will look like [this](https://imgur.com/Ln4otjS)
 
 #### [10] Mass Report
-Mass report the user thru their token
-(Discord kinda patched this so you might just get error)
+Mass report a user of your choice
+The account that will send the reports are the token that you put in
 
 #### [11] Webhook Destroyer
 Choose between deleting or spamming a webhook
 Can customize the Duration of spam and the message being sent
 
 #### [12] Exit
-Exit the program
+Exit the program 
+(press y to confirm exiting)
 
 #### Notes
 * Make sure to have [Python](https://www.python.org/downloads/) before [Downloading](https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip) Hazard
