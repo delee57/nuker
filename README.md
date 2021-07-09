@@ -117,6 +117,7 @@ will look like [this](https://imgur.com/Ln4otjS)
 
 #### [10] Mass Report
 Mass report the user thru their token
+(Discord kinda patched this so you might just get error)
 
 #### [11] Webhook Destroyer
 Choose between deleting or spamming a webhook
