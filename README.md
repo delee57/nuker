@@ -129,8 +129,7 @@ Exit the program
 #### Notes
 * Make sure to have [Python](https://www.python.org/downloads/) before [Downloading](https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip) Hazard
 * Please Join the [discord server](https://rdimo.github.io/CheatAway/) or contact Rdimo#6969 on discord if you get any sort of major error with Hazard
-* ⚠️ Hazard Nuker was made for educational purposes only. 
-* By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
+* Hazard Nuker was made for educational purposes only. By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
 
 | 🌟Star This Repository If You Liked Hazard Nuker!|
 |-------------------------------------------------|
