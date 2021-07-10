@@ -1,5 +1,10 @@
 <p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 
+### 2021-07-10, v1.2.0
+* ` New option to delete all the private dm channels`
+* ` Fixed so seizure mode is active while nuking the account so its even more annoying`
+* ` Made it print slow now after almost every option`
+
 ### 2021-07-10, v1.1.9
 * ` Improved mass report by quite alot:`
 * ` made the title of the cmd change and show how many reports have been sent and the errors`

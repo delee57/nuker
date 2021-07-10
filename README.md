@@ -18,6 +18,7 @@ Make sure to check [notes](https://github.com/Rdimo/Hazard-Nuker#notes)
 * ` Unfriend all friends`
 * ` delete and leave all servers`
 * ` Spam Create New servers`
+* ` Delete all private DM's`
 * ` Spam switch between light/dark and languages`
 * ` Get information from a targetted account`
 * ` Log into an account thru the token`
@@ -32,7 +33,7 @@ Make sure to check [notes](https://github.com/Rdimo/Hazard-Nuker#notes)
  <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862360917701034034/unknown.png" width="45%">
 </p>
 
-#### [1]: Nuke a targetted account 
+#### [1] Nuke a targetted account 
 Spam switch from light to dark mode the whole time nuking
 Delete/leave every server they are in
 Will create 100 servers named whatever you want
@@ -50,11 +51,14 @@ Leaves and deletes all the server the user has
 #### [4] Spam Create New servers
 Creates 100 new servers named whatever you want
 
-#### [5] Enable seizure mode
+#### [5] DM Deleter
+Deletes all the private DM's the account has 
+
+#### [6] Enable seizure mode
 Switches between Light/dark mode as long as the console is open
 also switches languages from ja to zh-TW to ko to zh-CN
 
-#### [6] Get information from a targetted account
+#### [7] Get information from a targetted account
 This is the info you get:
 User ID
 date account was created at
@@ -83,15 +87,15 @@ their country
 and if the payment method is their default
 if they have multiple credit cards connected you get those aswell
 
-#### [7] Log into an account
+#### [8] Log into an account
 Log into the account via their token
 Make sure you have the correct Chromedriver.exe get it [here](https://chromedriver.chromium.org/downloads)
 download the version corresponding to your chrome browsers version [How to get google version](https://www.businessinsider.com/what-version-of-google-chrome-do-i-have?op=1&r=US&IR=T)
 
-#### [8] Disable Token
+#### [9] Disable Token
 Makes the token you put in unusable/invalid
 
-#### [9] Create Token Grabber
+#### [10] Create Token Grabber
 Creates a token grabber in exe form that you can send to your victims and get their info thru a webhook
 Grabbs these Things upon running the exe : 
 username
@@ -115,15 +119,15 @@ their discord token from all their accounts they have
 
 will look like [this](https://imgur.com/Ln4otjS)
 
-#### [10] Mass Report
+#### [11] Mass Report
 Mass report a user of your choice
 The account that will send the reports are the token that you put in
 
-#### [11] Webhook Destroyer
+#### [12] Webhook Destroyer
 Choose between deleting or spamming a webhook
 Can customize the Duration of spam and the message being sent
 
-#### [12] Exit
+#### [13] Exit
 Exit the program 
 (press y to confirm exiting)
 
@@ -135,6 +139,6 @@ Exit the program
 | 🌟Star This Repository If You Liked Hazard Nuker!|
 |-------------------------------------------------|
 
-<a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=banner4" alt="Discord Banner 4"/></a>
+<a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=banner2" alt="Discord Banner 4"/></a>
 
 Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
