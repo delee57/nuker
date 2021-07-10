@@ -44,7 +44,9 @@
 | 🌟Star This Repository If You Liked Hazard Nuker!|
 |-------------------------------------------------|
 
-⚠️・ Hazard Nuker was made for educational purposes.・⚠️
+|⚠️・ Hazard Nuker was made for educational purposes.・⚠️|
+|-------------------------------------------------|
+
 By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
 
 Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
