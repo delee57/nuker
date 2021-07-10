@@ -1,4 +1,4 @@
-<p align= center <a href="https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a> 
+<p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 
 ### 2021-07-10, v1.1.9
 * ` Improved mass report by quite alot:`
