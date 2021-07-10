@@ -1,8 +1,11 @@
 <p align= center <a href="https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a> 
 
 ### 2021-07-10, v1.1.9
-* ` Improved mass report by quite alot added better error messages, made the title of the cmd change and show how many reports have been sent and the errors`
-* ` Additionally added so you can choose how many reports you wanna send + alot more like reloading if you put wrong report option etc`
+* ` Improved mass report by quite alot:`
+* ` made the title of the cmd change and show how many reports have been sent and the errors`
+* ` Better error messages`
+* ` Additionally added so you can choose how many reports you wanna send`
+* ` Added alot more like reloading if you put wrong report option etc`
 * ` changed the main gui a little bit and made it just more cleaner`
 * ` Removed the loading at the start since it was kinda useless`
 * ` Made checking for updates a loading bar instead of a slow print`
