@@ -8,7 +8,7 @@ Love ❌
 code ✅
 
 * Make sure to check [notes](https://github.com/Rdimo/Hazard-Nuker#notes)
-* also checkout the [changelogs]() to see whats new!
+* also checkout the [changelogs](https://github.com/Rdimo/Hazard-Nuker/blob/master/Changelog.md) to see whats new!
 
 ### Features
 
