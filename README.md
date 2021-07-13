@@ -24,7 +24,7 @@ code ✅
 * ` Get information from a targetted account`
 * ` Log into an account thru the token`
 * ` Disable Token`
-* ` Create login stealer`
+* ` Create Token Grabber`
 * ` Mass report`
 * ` Webhook destroyer`
 
