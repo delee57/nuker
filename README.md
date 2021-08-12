@@ -139,7 +139,7 @@ Exit the program
 | 🌟Star This Repository If You Liked Hazard Nuker!|
 |-------------------------------------------------|
 
-<a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=banner2" alt="Discord Banner 4"/></a>
+<a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://discordapp.com/api/guilds/864857288584724500/widget.png?style=banner2" alt="Discord Banner 4"/></a>
 
 Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
 |⚠️・ Hazard Nuker was made for educational purposes.・⚠️|
