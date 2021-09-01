@@ -29,7 +29,7 @@ code ✅
 * ` Webhook destroyer`
 
 <p align="center">
- <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/863399969889189888/unknown.png" width="45%">
+ <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/828047793619861557/882731702047363072/unknown.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
  <img alt="HazardNukerUpdate" src="https://cdn.discordapp.com/attachments/853347983639052318/863399932240855060/unknown.png" width="45%">
 </p>
