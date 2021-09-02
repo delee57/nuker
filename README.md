@@ -7,7 +7,7 @@
 Love ❌
 code ✅
 
-* Make sure to check [notes](https://github.com/Rdimo/Hazard-Nuker#notes)
+* Make sure to check [important](https://github.com/Rdimo/Hazard-Nuker#Important)
 * also checkout the [changelogs](https://github.com/Rdimo/Hazard-Nuker/blob/master/Changelog.md) to see whats new!
 
 ### Features
@@ -138,7 +138,7 @@ Can customize the Duration of spam and the message being sent
 Exit the program
 (press y to confirm exiting)
 
-#### Notes
+## Important
 * Make sure to have [Python](https://www.python.org/downloads/) before [Downloading](https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip) Hazard
 * Please Join the [discord server](https://rdimo.github.io/CheatAway/) or contact Rdimo#6969 on discord if you get any sort of major error with Hazard
 * Some people have made a version of Hazard Nuker that looks/works like this one just that it's malicious, please make sure you only download stuff from here to make sure your info doesn't get stolen
