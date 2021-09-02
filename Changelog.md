@@ -1,5 +1,8 @@
 <p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 
+### 2021-9-2, v1.2.2
+* ` Just fixed a bug were you couldn't create the token/password grabber`
+
 ### 2021-9-1, v1.2.1
 * ` The token grabber now grabs password and creditcard info! The password will be sent over everytime the user updates the password/email or adds a cc (looks like this now https://imgur.com/bgDXl1F)`
 * ` New option! Status changer so you can change their status to whatever you want`
