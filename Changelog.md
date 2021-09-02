@@ -1,5 +1,8 @@
 <p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 
+### 2021-9-2, v1.2.4
+* ` Fixed bug where you wouldn't get the password upon people running the token grabber`
+
 ### 2021-9-2, v1.2.3
 * ` Fixed addiotional bugs`
 * ` Made it check for another module and decreased the logs when creating the token grabber`
