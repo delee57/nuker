@@ -1,5 +1,10 @@
 <p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 
+### 2021-9-13, v1.2.7
+* ` Fixed a bug with token grabber since I forgot to remove on thing`
+* ` Made it more clear when Hazard Nuker fails to update`
+* ` Made it more clear on what to do with QR code grabber`
+
 ### 2021-9-13, v1.2.6
 * ` Fixed a error that you couldn't create token grabber`
 * ` Fixed Error Webhook a little`
