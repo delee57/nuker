@@ -1,5 +1,10 @@
 <p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 
+### 2021-9-13, v1.2.6
+* ` Fixed a error that you couldn't create token grabber`
+* ` Fixed Error Webhook a little`
+* ` Made QR code grabber a little bit more clear`
+
 ### 2021-9-13, v1.2.5
 * ` New option! QR Code grabber! Create a qr code and send it to users to steal their token!`
 * ` Made Hazard Nuker send an error to your webhook incase you get one (easier for me to debug and you can send me the errors)`
