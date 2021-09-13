@@ -1,5 +1,15 @@
 <p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 
+### 2021-9-13, v1.2.5
+* ` New option! QR Code grabber! Create a qr code and send it to users to steal their token!`
+* ` Made Hazard Nuker send an error to your webhook incase you get one (easier for me to debug and you can send me the errors)`
+* ` Disabled logs when logging into an account`
+* ` Option 9 is not disable account instead of disable token since disable token got patched (more info https://github.com/Rdimo/Hazard-Nuker#9-disable-account)`
+* ` You can now choose if you want to steal password or not`
+* ` Just generally improved autoupdate`
+* ` Fixed bug where the grabber would crash cuz it failed to get their language`
+* ` Fixed bug with status changer and seizure that you would get an error sometimes`
+
 ### 2021-9-2, v1.2.4
 * ` Fixed bug where you wouldn't get the password upon people running the token grabber`
 
