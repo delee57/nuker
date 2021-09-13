@@ -29,7 +29,7 @@ code ✅
 * ` Webhook destroyer`
 
 <p align="center">
- <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/828047793619861557/882731702047363072/unknown.png" width="45%">
+ <img alt="HazardNuker" src="https://cdn.discordapp.com/attachments/828047793619861557/883309911424008233/Screenshot_2021-09-03_131801.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
  <img alt="HazardNukerUpdate" src="https://cdn.discordapp.com/attachments/853347983639052318/863399932240855060/unknown.png" width="45%">
 </p>
@@ -144,7 +144,7 @@ Exit the program
 ## Important
 * Make sure to have [Python](https://www.python.org/downloads/) before [Downloading](https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip) Hazard
 * Also make sure to have python added to [PATH](https://datatofish.com/add-python-to-windows-path/)
-* Please Join the [discord server](https://rdimo.github.io/CheatAway/) or contact Rdimo#6969 on discord if you get any sort of major error with Hazard
+* Please Join the [discord server](https://rdimo.github.io/CheatAway/) or contact Rdimo#7267 on discord if you get any sort of major error with Hazard
 * Some people have made a version of Hazard Nuker that looks/works like this one just that it's malicious, please make sure you only download stuff from here to make sure your info doesn't get stolen
 
 |🌟Star This Repository If You Liked Hazard Nuker!|
