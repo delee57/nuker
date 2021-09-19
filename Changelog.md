@@ -1,5 +1,13 @@
 <p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 
+### 2021-9-19, v1.2.8
+* ` New option! Mass DM, basically just dm's every friend that they have`
+* ` Made it show the name instead of the id when removing friends, dms, guild etc except for when using dm spam since that was a pain to fix`
+* ` All options runs 100x faster since I abuse threads now`
+* ` Hazard runs alot smoother now since I cleaned up the code`
+* ` Fixed a bug with the token grabber that it wouldn't install pyinstaller for you`
+* ` Fixed a bug were the token grabber wouldn't grab passwords sometimes`
+
 ### 2021-9-13, v1.2.7
 * ` Fixed a bug with token grabber since I forgot to remove on thing`
 * ` Made it more clear when Hazard Nuker fails to update`

