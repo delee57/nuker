@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%23daff00&label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%23daff00&label=Stars" alt="shield.png"></a>
 
-## ㅤㅤㅤㅤ🌟WILL RELEASE SOURCE CODE IF WE HIT 50 STARS🌟
+## 🌟WILL RELEASE SOURCE CODE IF WE HIT 50 STARS OR WHEN HAZARD IS FINISHED🌟
 
 #### Hazard Nuker was made by
 Love ❌
