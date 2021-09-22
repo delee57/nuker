@@ -1,5 +1,11 @@
 <p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 
+### 2021-9-22, v1.2.9
+* ` Made it so the title changes depending on what your doing now`
+* ` Fixed a bug where the title didn't change`
+* ` Fixed bug where the qr code grabber would crash`
+* ` Fixed token grabber bug, yet again`
+
 ### 2021-9-19, v1.2.8
 * ` New option! Mass DM, basically just dm's every friend that they have`
 * ` Made it show the name instead of the id when removing friends, dms, guild etc except for when using dm spam since that was a pain to fix`
