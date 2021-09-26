@@ -4,7 +4,7 @@
 import os, requests, json, sys, platform, ctypes
 from time import sleep
 
-THIS_VERSION = "1.2.9"
+THIS_VERSION = "1.3.0"
 
 def clear():
     system = platform.system()
