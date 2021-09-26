@@ -3,14 +3,12 @@
 <img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%23daff00&label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%23daff00&label=Stars" alt="shield.png"></a>
 
-## ㅤㅤㅤㅤ🌟WILL RELEASE SOURCE CODE IF WE HIT 40 STARS🌟
-
 #### Hazard Nuker was made by
 Love ❌
 code ✅
 
-* Make sure to check [important](https://github.com/Rdimo/Hazard-Nuker#Important)
-* also checkout the [changelogs](https://github.com/Rdimo/Hazard-Nuker/blob/master/Changelog.md) to see whats new!
+* Make Sure To Check [important](https://github.com/Rdimo/Hazard-Nuker#Important)
+* Also Checkout The [changelogs](https://github.com/Rdimo/Hazard-Nuker/blob/master/Changelog.md) To See What's New!
 
 ### Features
 * ` Many options while being compact`

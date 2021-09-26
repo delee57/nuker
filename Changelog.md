@@ -1,5 +1,9 @@
 <p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 
+### 2021-9-26, v1.3.0
+* ` Eyy source code release as promised`
+* ` Fixed some stuff too but don't remember what I fixed`
+
 ### 2021-9-22, v1.2.9
 * ` Made it so the title changes depending on what your doing now`
 * ` Fixed a bug where the title didn't change`
