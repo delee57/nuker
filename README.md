@@ -1,14 +1,22 @@
 <p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://cdn.discordapp.com/attachments/853347983639052318/858485202157699092/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
-
-<img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%23daff00&label=Watchers" alt="shield.png"></a>
-<img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%23daff00&label=Stars" alt="shield.png"></a>
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Nuker?style=flat-square" </a>
+<img src="https://img.shields.io/github/last-commit/Rdimo/Hazard-Nuker?style=flat-square" </a>
+ <img src="https://img.shields.io/github/license/Rdimo/Hazard-Nuker?style=flat-square" </a>
+<img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?color=%23daff00&label=Watchers&style=flat-square" </a>
+<img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%23daff00&label=Stars&style=flat-square" </a>
+<img src="https://img.shields.io/github/forks/Rdimo/Hazard-Nuker?color=%23daff00&label=Forks&style=flat-square" </a>
+</p>
+<p align="center">
+<a href="https://github.com/Rdimo/Hazard-Nuker#installation">Installation</a> |
+<a href="https://github.com/Rdimo/Hazard-Nuker#Important">Important</a> |
+<a href="https://github.com/Rdimo/Hazard-Nuker/blob/master/Changelog.md">Changelogs</a> |
+<a href="https://rdimo.github.io/CheatAway/">Discord</a>
+</p>
 
 #### Hazard Nuker was made by
 Love ❌
 code ✅
-
-* Make Sure To Check [important](https://github.com/Rdimo/Hazard-Nuker#Important)
-* Also Checkout The [changelogs](https://github.com/Rdimo/Hazard-Nuker/blob/master/Changelog.md) To See What's New!
 
 ### Features
 * ` Many options while being compact`
