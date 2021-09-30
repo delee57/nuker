@@ -5,14 +5,14 @@ import requests
 import json
 import Hazard
 from colorama import Fore
-from util.plugins.common import clear, print_slow, getheaders, THIS_VERSION
+from util.plugins.common import clear, setTitle, print_slow, getheaders, THIS_VERSION
 
 def MassDM(token, Message):
     headers = {'Authorization': token}
     channelIds = requests.get("https://discord.com/api/v9/users/@me/channels", headers=getheaders(token)).json()
     for channel in channelIds:
         try:
-            title(f"Messaging "+channel['id'])
+            setTitle(f"Messaging "+channel['id'])
             requests.post(f'https://discord.com/api/v8/channels/'+channel['id']+'/messages', 
             headers=headers, 
             data={"content": f"{Message}"})
